@@ -1,7 +1,7 @@
 {
   "name": "testing-repo",
   "version": "1.0.0",
-  "description": "testing",
+  "description": "testing, updated github email to match git email",
   "main": "index.js",
   "scripts": {
     "test": "jest"
